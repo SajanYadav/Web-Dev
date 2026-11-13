@@ -1,0 +1,17 @@
+
+:root {
+  --mera-background: black;
+  --mera-text-color: white;
+  --mera-heading-size: 50px;
+}
+body {
+  background-color: var(--mera-background);
+  color: var(--mera-text-color);
+  font-family: sans-serif;
+  text-align: center;
+  padding: 50px;
+}
+
+h1 {
+  font-size: var(--mera-heading-size);
+}
